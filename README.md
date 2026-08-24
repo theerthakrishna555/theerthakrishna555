@@ -1,4 +1,4 @@
- Hi there, I'm Shibi 👋
+ Hi there, I'm Theertha 👋
 
  💻 Python Full Stack Developer
 
